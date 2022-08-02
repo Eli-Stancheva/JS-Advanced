@@ -1,0 +1,19 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "unit testing",
+  "main": "P1_Sub Sum.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "mocka",
+    "chai",
+    "testing"
+  ],
+  "author": "ES",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.6"
+  }
+}
